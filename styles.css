@@ -1,12 +1,22 @@
 /*
 Color Palette
-#023e8a Dark Cornflower Blue
+#67A1E0 - blue
+#060E0D - black
 */
+
+body {
+    background-color: #67A1E0;
+}
+
+p {
+    font-family: 'Libre Baskerville', serif;
+}
 
 img {
     width: 250px;
 }
 
 h1 {
-    color: #023e8a;
+    color: #060E0D;
+    font-family: 'Mukta', sans-serif;
 }
